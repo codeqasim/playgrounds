@@ -1,0 +1,6 @@
+@import "components/appbar.css";
+
+body {
+  font-family: sans-serif;
+  background: #000;
+}
